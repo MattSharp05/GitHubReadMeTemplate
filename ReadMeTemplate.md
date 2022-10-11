@@ -29,7 +29,7 @@
 [![(INSERT NAME)'s GitHub stats](https://github-readme-stats.vercel.app/api?username=(INSERT GITHUB USERNAME))](https://github.com/INSERT GITHUB USERNAME/github-readme-stats)
 
 ## 🔗Connect with me!
-[![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/GITHUB USERNAME)
-[![instagram](https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=Instagram&logoColor=pink)](https://www.instagram.com/INSTAGRAM USERNAME)
-[![linked-in](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=LinkedIn&logoColor=blue)](https://www.linkedin.com/in/LINKEDIN USERNAME)
-[![twitter](https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=Twitter&logoColor=blue)](https://twitter.com/TWITTER USERNAME)
+[![github]https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)]<!---((https://github.com/GITHUB USERNAME)-->
+[![instagram](https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=Instagram&logoColor=pink)]<!---((https://www.instagram.com/INSTAGRAM USERNAME)-->
+[![linked-in](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=LinkedIn&logoColor=blue)]<!---((https://www.linkedin.com/in/LINKEDIN USERNAME)-->
+[![twitter](https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=Twitter&logoColor=blue)]<!---((https://twitter.com/TWITTER USERNAME)-->
