@@ -10,7 +10,7 @@
 
 ## 🛠️ Skills
 
- <!--- feel free to add your own badges and skills. Google https://img.shields.io/badge/SKILL-NAME-000000?style=for-the-badge&logo=SKILL-NAME&logoColor=white) for badges>
+ <!--- feel free to add your own badges and skills. Google https://img.shields.io/badge/SKILL-NAME-000000?style=for-the-badge&logo=SKILL-NAME&logoColor=white) for badges -->
  
 ![python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white)
 ![javascript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
