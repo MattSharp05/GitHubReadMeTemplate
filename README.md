@@ -1,6 +1,6 @@
-## GitHub ReadMe Template
+# GitHub ReadMe Template
 
-# A template for GitHub users to use to update their README.md files in their GitHub profiles!
+## A template for GitHub users to use to update their README.md files in their GitHub profiles!
 
 ## Summary
 - includes an "About Me" section
